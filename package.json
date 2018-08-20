@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finder express app using node.js, express, and html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teeplaz/friendfinder.git"
+  },
+  "keywords": [
+    "friendfinder",
+    "friend",
+    "express",
+    "node"
+  ],
+  "author": "Ty Plaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teeplaz/friendfinder/issues"
+  },
+  "homepage": "https://github.com/teeplaz/friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
